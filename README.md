@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning Programming.
 - 💞️ I’m looking to collaborate on 'I don't Know'.
 - 📫 How to reach me 'contact@kushalchaudhary.com.np'
-- https://ikushal.online/
 - https://kushalchaudhary.com.np/
