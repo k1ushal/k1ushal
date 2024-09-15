@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @k1ushal
-- 💩 My name is Kushal Chaudhary
-- 👀 I’m interested in Coding, Programming, Gaming, Learning,
-- 🌱 I’m currently learning Programming.
-- 💞️ I’m looking to collaborate on 'I don't Know'.
-- 📫 How to reach me 'contact@kushalchaudhary.com.np'
-- https://kushalchaudhary.com.np/
+Hello, My name is Kushal Chaudhary.
+
+https://www.kushalchaudhary.com.np/
+[![Email](https://img.shields.io/badge/Email-me-red)](mailto:info@kushalchaudhary.com.np)
